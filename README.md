@@ -11,4 +11,10 @@ Gemeinwesen ist eine zentrale Angelegenheit für uns Menschen, die uns alle ange
 Unser Leben findet nur zum Teil in unserer individuellen Lebenswelt statt, die andere Lebenswelt unserer Lebendigkeit ist das Gemeinwesen. 
 
 
+[Das Gemeinschaftshaus](./5_das-gemeinschaftshaus-im-quartier-2024-07-21.md)
+
+
+
+----
+
 Svenhe.de | Start 2024
