@@ -3,13 +3,11 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
-{% seo %}
+    <title>Gemeinwesen</title>
     <link rel="stylesheet" href="{{ "/assets/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
   </head>
   <body>
-    <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
@@ -32,8 +30,8 @@
 
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
        
-              </footer>
-    </div>
+      </footer>
+
     <script src="{{ "/assets/js.js" | relative_url }}"></script>
   </body>
 </html>
